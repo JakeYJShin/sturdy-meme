@@ -1,0 +1,7 @@
+.flex-container {
+    display: flex;
+}
+
+img {
+    max-width: 300px;
+}
